@@ -1,4 +1,4 @@
-# 🌌 AeroHealth Ultimate Advanced
+# 🌌 AeroHealth
 
 **[Live Demo](https://harshitsrivastava00.github.io/AeroHealth/)**
 
