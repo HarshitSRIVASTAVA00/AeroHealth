@@ -1,4 +1,4 @@
-// AeroHealth Ultimate Advanced - Main Application Logic
+
 class AeroHealthApp {
     constructor() {
         this.currentCity = null;
